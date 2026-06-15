@@ -32,7 +32,7 @@ function LineBanner({ score, totalMax }) {
         <span style={{ fontSize:24 }}>📮</span>
         <div>
           <div style={{ fontSize:11, color:"#d1fae5", fontWeight:700, fontFamily:"'M PLUS Rounded 1c',sans-serif" }}>あなた専用</div>
-          <div style={{ fontSize:17, fontWeight:800, color:"#fff", fontFamily:"'M PLUS Rounded 1c',sans-serif", lineHeight:1.3 }}>2046年の未来診断書を無料で受け取る</div>
+          <div style={{ fontSize:17, fontWeight:800, color:"#fff", fontFamily:"'M PLUS Rounded 1c',sans-serif", lineHeight:1.3 }}>この結果の解説を無料で見てみる</div>
         </div>
       </div>
       <div style={{ background:"rgba(0,0,0,0.15)", borderRadius:12, padding:"10px 14px", marginBottom:14 }}>
